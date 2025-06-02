@@ -1,0 +1,501 @@
+Item_ID,Item_Name,Item_Type,Current_Stock,Min_Required,Unit_Cost,Restock_Lead_Time,Vendor_Name,"Avg_Lead_Time (days)",Next_Delivery_Date,Restock_Risk_Level
+105,Ventilator,Consumable,1542,264,4467.55,17,"MedSupplies Inc.",5,2024-10-03,Safe
+100,Ventilator,Equipment,2487,656,5832.29,12,"MedSupplies Inc.",5,2024-10-03,Safe
+103,"Surgical Mask",Equipment,2371,384,16062.98,6,"MedSupplies Inc.",5,2024-10-03,Safe
+103,"Surgical Mask",Consumable,2038,438,744.1,15,"EquipMed Co.",30,2024-10-15,Safe
+107,"IV Drip",Equipment,2410,338,15426.53,12,"HealthTools Ltd.",15,2024-10-05,Safe
+109,"IV Drip",Equipment,2258,402,15246.06,26,"EquipMed Co.",30,2024-10-15,Safe
+103,"IV Drip",Consumable,387,210,1631.28,24,"HealthTools Ltd.",15,2024-10-05,Safe
+105,"IV Drip",Equipment,123,502,16620.81,11,"EquipMed Co.",30,2024-10-15,"High Risk"
+102,Ventilator,Consumable,790,751,3441.26,20,"MedSupplies Inc.",5,2024-10-03,Safe
+104,Gloves,Equipment,2448,28,2729.08,5,"EquipMed Co.",30,2024-10-15,Safe
+107,"Surgical Mask",Equipment,3451,12,3328.44,21,"MedSupplies Inc.",5,2024-10-03,Safe
+106,"Surgical Mask",Consumable,4510,207,55.66,8,"HealthTools Ltd.",15,2024-10-05,Safe
+108,"X-ray Machine",Consumable,3298,231,10669.37,2,"MedSupplies Inc.",5,2024-10-03,Safe
+108,Gloves,Consumable,789,515,7379.83,24,"EquipMed Co.",30,2024-10-15,Safe
+101,Gloves,Consumable,4719,239,2865.49,24,"HealthTools Ltd.",15,2024-10-05,Safe
+106,"Surgical Mask",Equipment,3465,622,17374.64,25,"EquipMed Co.",30,2024-10-15,Safe
+107,Gloves,Equipment,466,372,10124.28,26,"EquipMed Co.",30,2024-10-15,Safe
+107,"X-ray Machine",Consumable,2410,167,6974.49,6,"EquipMed Co.",30,2024-10-15,Safe
+108,Ventilator,Consumable,462,165,10654.65,23,"MedSupplies Inc.",5,2024-10-03,Safe
+101,"IV Drip",Equipment,4317,667,16184.33,18,"HealthTools Ltd.",15,2024-10-05,Safe
+105,"X-ray Machine",Equipment,228,452,3419.11,17,"EquipMed Co.",30,2024-10-15,"High Risk"
+109,"IV Drip",Consumable,2912,405,17313.6,17,"MedSupplies Inc.",5,2024-10-03,Safe
+108,"Surgical Mask",Consumable,2206,315,11709.1,1,"EquipMed Co.",30,2024-10-15,Safe
+109,Ventilator,Consumable,2519,338,12310.83,19,"HealthTools Ltd.",15,2024-10-05,Safe
+104,"X-ray Machine",Equipment,2730,354,11771.05,4,"MedSupplies Inc.",5,2024-10-03,Safe
+103,Gloves,Consumable,2100,525,4426.77,2,"EquipMed Co.",30,2024-10-15,Safe
+100,Ventilator,Equipment,835,634,3695.18,7,"EquipMed Co.",30,2024-10-15,Safe
+103,"X-ray Machine",Consumable,4289,21,9547.31,21,"MedSupplies Inc.",5,2024-10-03,Safe
+105,Ventilator,Consumable,757,835,7127.18,1,"HealthTools Ltd.",15,2024-10-05,"High Risk"
+100,"Surgical Mask",Equipment,1415,444,4817.11,9,"HealthTools Ltd.",15,2024-10-05,Safe
+102,Gloves,Consumable,4900,665,11625.6,25,"HealthTools Ltd.",15,2024-10-05,Safe
+103,"IV Drip",Consumable,3215,963,17123.76,7,"MedSupplies Inc.",5,2024-10-03,Safe
+108,"IV Drip",Consumable,873,141,11138.18,12,"MedSupplies Inc.",5,2024-10-03,Safe
+101,"IV Drip",Equipment,2275,896,18130.51,5,"EquipMed Co.",30,2024-10-15,Safe
+103,"X-ray Machine",Equipment,4906,966,14336.04,22,"MedSupplies Inc.",5,2024-10-03,Safe
+103,Ventilator,Consumable,694,945,18008.8,6,"EquipMed Co.",30,2024-10-15,"High Risk"
+103,Gloves,Consumable,139,520,4034.61,8,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+107,Gloves,Consumable,2341,991,11746.94,24,"HealthTools Ltd.",15,2024-10-05,Safe
+100,"X-ray Machine",Equipment,3745,167,7093.88,26,"HealthTools Ltd.",15,2024-10-05,Safe
+101,Gloves,Consumable,4804,959,14874.23,20,"MedSupplies Inc.",5,2024-10-03,Safe
+109,Gloves,Consumable,3243,77,8997.87,11,"MedSupplies Inc.",5,2024-10-03,Safe
+109,Ventilator,Equipment,2706,578,8243.92,6,"HealthTools Ltd.",15,2024-10-05,Safe
+100,Ventilator,Consumable,2445,213,2860,6,"HealthTools Ltd.",15,2024-10-05,Safe
+104,Ventilator,Equipment,2902,385,7091.41,5,"MedSupplies Inc.",5,2024-10-03,Safe
+107,"X-ray Machine",Consumable,1457,89,13356.24,29,"HealthTools Ltd.",15,2024-10-05,Safe
+103,"X-ray Machine",Consumable,437,311,10175.7,11,"MedSupplies Inc.",5,2024-10-03,Safe
+102,"X-ray Machine",Equipment,1732,612,10382.88,26,"MedSupplies Inc.",5,2024-10-03,Safe
+107,Gloves,Equipment,255,89,12963.49,13,"MedSupplies Inc.",5,2024-10-03,Safe
+102,"IV Drip",Consumable,2149,235,5517.11,17,"MedSupplies Inc.",5,2024-10-03,Safe
+100,Gloves,Consumable,4707,21,4415.31,26,"MedSupplies Inc.",5,2024-10-03,Safe
+100,Ventilator,Equipment,2366,513,19355.19,6,"MedSupplies Inc.",5,2024-10-03,Safe
+104,"IV Drip",Equipment,2964,143,2757.06,14,"EquipMed Co.",30,2024-10-15,Safe
+105,"Surgical Mask",Equipment,3728,936,1620.42,12,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"IV Drip",Consumable,3842,196,14073.16,23,"MedSupplies Inc.",5,2024-10-03,Safe
+106,Ventilator,Consumable,2163,590,12942.68,11,"EquipMed Co.",30,2024-10-15,Safe
+108,Ventilator,Consumable,2186,325,7419.78,8,"HealthTools Ltd.",15,2024-10-05,Safe
+104,Ventilator,Consumable,215,554,1536.19,1,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+101,Ventilator,Consumable,484,815,5590.96,25,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+104,"Surgical Mask",Equipment,2018,181,1244.96,17,"EquipMed Co.",30,2024-10-15,Safe
+109,"IV Drip",Consumable,1278,647,19782.43,28,"HealthTools Ltd.",15,2024-10-05,Safe
+108,"Surgical Mask",Consumable,1078,326,13908.3,24,"MedSupplies Inc.",5,2024-10-03,Safe
+101,Gloves,Consumable,1248,567,8638.15,25,"MedSupplies Inc.",5,2024-10-03,Safe
+101,"IV Drip",Consumable,4032,295,18394.64,29,"EquipMed Co.",30,2024-10-15,Safe
+107,Gloves,Consumable,3363,260,11309.13,25,"HealthTools Ltd.",15,2024-10-05,Safe
+109,Gloves,Equipment,3456,165,14225.64,26,"HealthTools Ltd.",15,2024-10-05,Safe
+109,Gloves,Equipment,3638,753,10135.64,21,"HealthTools Ltd.",15,2024-10-05,Safe
+103,Ventilator,Equipment,4872,805,16529.65,15,"HealthTools Ltd.",15,2024-10-05,Safe
+106,"IV Drip",Equipment,1024,39,19648.94,1,"EquipMed Co.",30,2024-10-15,Safe
+107,"X-ray Machine",Equipment,1277,136,8242.85,15,"EquipMed Co.",30,2024-10-15,Safe
+102,"IV Drip",Consumable,4625,82,2946.37,4,"MedSupplies Inc.",5,2024-10-03,Safe
+100,Ventilator,Consumable,2632,85,8037.19,23,"MedSupplies Inc.",5,2024-10-03,Safe
+103,"IV Drip",Equipment,4957,107,15954.34,16,"EquipMed Co.",30,2024-10-15,Safe
+105,Ventilator,Equipment,1542,216,4.23,9,"HealthTools Ltd.",15,2024-10-05,Safe
+109,"IV Drip",Equipment,3817,560,19091.92,4,"MedSupplies Inc.",5,2024-10-03,Safe
+104,"IV Drip",Equipment,1204,277,13250.46,5,"MedSupplies Inc.",5,2024-10-03,Safe
+104,Gloves,Equipment,1711,468,6213.3,21,"HealthTools Ltd.",15,2024-10-05,Safe
+106,"Surgical Mask",Equipment,1714,768,9796.68,15,"MedSupplies Inc.",5,2024-10-03,Safe
+104,"IV Drip",Equipment,3473,867,5281.82,29,"EquipMed Co.",30,2024-10-15,Safe
+104,"X-ray Machine",Equipment,234,42,8718.91,5,"EquipMed Co.",30,2024-10-15,Safe
+103,"Surgical Mask",Consumable,3832,700,12764.56,28,"MedSupplies Inc.",5,2024-10-03,Safe
+104,"X-ray Machine",Consumable,2288,50,13481.71,18,"EquipMed Co.",30,2024-10-15,Safe
+104,"IV Drip",Consumable,4909,208,6455.81,28,"MedSupplies Inc.",5,2024-10-03,Safe
+108,Ventilator,Equipment,2815,296,459.81,20,"MedSupplies Inc.",5,2024-10-03,Safe
+104,"IV Drip",Equipment,1726,672,7544.2,25,"EquipMed Co.",30,2024-10-15,Safe
+103,Gloves,Equipment,343,133,7507.87,25,"EquipMed Co.",30,2024-10-15,Safe
+107,Ventilator,Equipment,4101,597,8240.78,4,"EquipMed Co.",30,2024-10-15,Safe
+105,"X-ray Machine",Consumable,2413,301,19314.53,19,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"IV Drip",Consumable,4485,478,19401.95,2,"EquipMed Co.",30,2024-10-15,Safe
+100,"IV Drip",Equipment,3930,974,2974.71,13,"HealthTools Ltd.",15,2024-10-05,Safe
+101,Ventilator,Consumable,1434,585,18268.7,21,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"IV Drip",Equipment,4129,782,19569.2,8,"MedSupplies Inc.",5,2024-10-03,Safe
+109,"Surgical Mask",Equipment,3919,699,5133.32,23,"HealthTools Ltd.",15,2024-10-05,Safe
+103,"X-ray Machine",Equipment,1126,894,14820.61,13,"HealthTools Ltd.",15,2024-10-05,Safe
+100,"IV Drip",Equipment,2748,167,3509.51,25,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"IV Drip",Equipment,3846,713,9439.58,16,"HealthTools Ltd.",15,2024-10-05,Safe
+100,Ventilator,Consumable,690,839,12144.29,1,"EquipMed Co.",30,2024-10-15,"High Risk"
+101,Gloves,Consumable,3801,613,3592.18,2,"EquipMed Co.",30,2024-10-15,Safe
+102,"X-ray Machine",Consumable,4184,633,10943.91,14,"MedSupplies Inc.",5,2024-10-03,Safe
+104,"Surgical Mask",Consumable,1556,221,14776.76,2,"MedSupplies Inc.",5,2024-10-03,Safe
+102,"Surgical Mask",Equipment,243,370,13348.52,4,"EquipMed Co.",30,2024-10-15,"High Risk"
+100,Ventilator,Consumable,1196,100,12615.11,8,"MedSupplies Inc.",5,2024-10-03,Safe
+103,"Surgical Mask",Consumable,2787,548,2409.08,25,"EquipMed Co.",30,2024-10-15,Safe
+102,Gloves,Consumable,4377,595,19127.81,5,"HealthTools Ltd.",15,2024-10-05,Safe
+100,"IV Drip",Consumable,1395,956,2818.77,7,"HealthTools Ltd.",15,2024-10-05,Safe
+107,"X-ray Machine",Equipment,1415,233,12244.95,28,"HealthTools Ltd.",15,2024-10-05,Safe
+105,"IV Drip",Equipment,2532,872,2591.06,27,"MedSupplies Inc.",5,2024-10-03,Safe
+109,Ventilator,Equipment,1400,795,10794.3,3,"HealthTools Ltd.",15,2024-10-05,Safe
+100,"IV Drip",Equipment,2712,721,17348.74,14,"EquipMed Co.",30,2024-10-15,Safe
+102,Gloves,Equipment,2087,834,12605.89,7,"EquipMed Co.",30,2024-10-15,Safe
+107,"Surgical Mask",Consumable,534,813,18171.78,16,"EquipMed Co.",30,2024-10-15,"High Risk"
+102,"X-ray Machine",Equipment,2249,211,13171.06,26,"EquipMed Co.",30,2024-10-15,Safe
+109,Gloves,Consumable,2220,742,9108.27,17,"EquipMed Co.",30,2024-10-15,Safe
+102,Ventilator,Consumable,2180,825,9337.51,17,"HealthTools Ltd.",15,2024-10-05,Safe
+103,"X-ray Machine",Equipment,139,58,4233.14,19,"EquipMed Co.",30,2024-10-15,Safe
+103,"IV Drip",Equipment,800,385,19077.24,10,"HealthTools Ltd.",15,2024-10-05,Safe
+102,Ventilator,Equipment,3235,977,6218.86,26,"EquipMed Co.",30,2024-10-15,Safe
+103,"IV Drip",Equipment,205,639,7999.22,1,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+104,Gloves,Equipment,1587,589,596.28,16,"HealthTools Ltd.",15,2024-10-05,Safe
+101,Gloves,Consumable,2363,645,7760.43,22,"MedSupplies Inc.",5,2024-10-03,Safe
+102,Ventilator,Consumable,4261,721,2334.56,17,"HealthTools Ltd.",15,2024-10-05,Safe
+109,"Surgical Mask",Equipment,1923,328,3828.92,11,"HealthTools Ltd.",15,2024-10-05,Safe
+101,Ventilator,Consumable,4541,978,15790.87,5,"MedSupplies Inc.",5,2024-10-03,Safe
+104,"Surgical Mask",Consumable,2345,303,9444.07,8,"EquipMed Co.",30,2024-10-15,Safe
+106,Ventilator,Equipment,3627,15,16754.86,24,"EquipMed Co.",30,2024-10-15,Safe
+108,Ventilator,Equipment,104,619,6457.32,18,"EquipMed Co.",30,2024-10-15,"High Risk"
+102,"X-ray Machine",Equipment,1366,65,7664.23,9,"EquipMed Co.",30,2024-10-15,Safe
+103,"Surgical Mask",Consumable,3248,486,16642.78,7,"HealthTools Ltd.",15,2024-10-05,Safe
+100,"Surgical Mask",Consumable,69,440,1353.1,14,"EquipMed Co.",30,2024-10-15,"High Risk"
+100,Gloves,Equipment,1057,48,16408.54,6,"HealthTools Ltd.",15,2024-10-05,Safe
+106,"IV Drip",Equipment,3831,571,4108.2,18,"HealthTools Ltd.",15,2024-10-05,Safe
+100,Gloves,Consumable,4870,274,13098.78,6,"HealthTools Ltd.",15,2024-10-05,Safe
+106,"Surgical Mask",Consumable,258,644,10657.62,5,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+103,"X-ray Machine",Consumable,2754,203,15785.82,3,"MedSupplies Inc.",5,2024-10-03,Safe
+103,"Surgical Mask",Equipment,2283,332,15330.07,23,"EquipMed Co.",30,2024-10-15,Safe
+108,"IV Drip",Equipment,2194,72,11508.29,29,"HealthTools Ltd.",15,2024-10-05,Safe
+108,"IV Drip",Consumable,2376,26,11614,27,"EquipMed Co.",30,2024-10-15,Safe
+108,Ventilator,Equipment,1466,199,14687.35,18,"MedSupplies Inc.",5,2024-10-03,Safe
+102,"X-ray Machine",Consumable,4976,204,12211.46,28,"MedSupplies Inc.",5,2024-10-03,Safe
+103,Gloves,Equipment,1934,277,11180.05,2,"MedSupplies Inc.",5,2024-10-03,Safe
+102,"X-ray Machine",Consumable,1243,425,9954.16,28,"HealthTools Ltd.",15,2024-10-05,Safe
+100,Ventilator,Equipment,1916,404,19150.22,8,"MedSupplies Inc.",5,2024-10-03,Safe
+108,"Surgical Mask",Equipment,152,30,4425.19,14,"MedSupplies Inc.",5,2024-10-03,Safe
+108,"IV Drip",Equipment,1678,110,8742.17,26,"EquipMed Co.",30,2024-10-15,Safe
+103,"Surgical Mask",Equipment,2206,792,8376.04,6,"EquipMed Co.",30,2024-10-15,Safe
+108,"Surgical Mask",Consumable,957,642,11731.33,5,"EquipMed Co.",30,2024-10-15,Safe
+102,Ventilator,Consumable,141,62,13675.82,27,"EquipMed Co.",30,2024-10-15,Safe
+108,Gloves,Consumable,1891,465,4455.81,18,"MedSupplies Inc.",5,2024-10-03,Safe
+104,"Surgical Mask",Equipment,4729,679,11237.37,16,"MedSupplies Inc.",5,2024-10-03,Safe
+103,"IV Drip",Equipment,1497,911,18407.82,22,"HealthTools Ltd.",15,2024-10-05,Safe
+100,"IV Drip",Equipment,2968,280,4687.32,8,"MedSupplies Inc.",5,2024-10-03,Safe
+104,Gloves,Equipment,1147,636,2216.52,9,"EquipMed Co.",30,2024-10-15,Safe
+103,Gloves,Consumable,1930,760,5585.01,19,"HealthTools Ltd.",15,2024-10-05,Safe
+106,Ventilator,Consumable,4286,985,11055.04,21,"HealthTools Ltd.",15,2024-10-05,Safe
+109,"X-ray Machine",Consumable,2842,829,9049.9,26,"MedSupplies Inc.",5,2024-10-03,Safe
+108,"IV Drip",Consumable,1299,42,8807.99,8,"MedSupplies Inc.",5,2024-10-03,Safe
+100,"Surgical Mask",Consumable,3949,417,13084.14,3,"HealthTools Ltd.",15,2024-10-05,Safe
+108,Ventilator,Consumable,4864,771,18329.75,9,"HealthTools Ltd.",15,2024-10-05,Safe
+105,Gloves,Equipment,3649,869,3717.66,19,"HealthTools Ltd.",15,2024-10-05,Safe
+109,"Surgical Mask",Equipment,1078,784,6971.8,18,"MedSupplies Inc.",5,2024-10-03,Safe
+100,"X-ray Machine",Consumable,1766,723,7703.61,9,"EquipMed Co.",30,2024-10-15,Safe
+109,Gloves,Equipment,3961,130,3067.83,8,"HealthTools Ltd.",15,2024-10-05,Safe
+106,"X-ray Machine",Consumable,2426,75,17810.15,2,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"X-ray Machine",Consumable,3383,85,18648.9,4,"HealthTools Ltd.",15,2024-10-05,Safe
+103,"IV Drip",Equipment,601,865,19984.16,27,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+101,"IV Drip",Consumable,385,518,4744.54,22,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+108,"X-ray Machine",Equipment,3969,720,1435.5,16,"MedSupplies Inc.",5,2024-10-03,Safe
+100,"IV Drip",Consumable,3931,818,2967.9,25,"MedSupplies Inc.",5,2024-10-03,Safe
+104,Gloves,Consumable,712,710,16417.4,18,"HealthTools Ltd.",15,2024-10-05,Safe
+109,"X-ray Machine",Consumable,1291,46,18593.6,20,"EquipMed Co.",30,2024-10-15,Safe
+106,"X-ray Machine",Consumable,847,918,7118.28,26,"HealthTools Ltd.",15,2024-10-05,"High Risk"
+105,Ventilator,Equipment,1851,941,19249.94,2,"HealthTools Ltd.",15,2024-10-05,Safe
+107,Ventilator,Consumable,3517,72,15939.13,11,"EquipMed Co.",30,2024-10-15,Safe
+108,Ventilator,Consumable,2991,463,7070.18,19,"MedSupplies Inc.",5,2024-10-03,Safe
+108,Ventilator,Equipment,2969,840,17019.13,8,"EquipMed Co.",30,2024-10-15,Safe
+109,"Surgical Mask",Equipment,3844,452,12820.29,12,"HealthTools Ltd.",15,2024-10-05,Safe
+102,Ventilator,Consumable,305,598,8929.95,6,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+108,Gloves,Consumable,1385,540,9038.79,27,"HealthTools Ltd.",15,2024-10-05,Safe
+106,"Surgical Mask",Equipment,1596,394,19242.41,9,"MedSupplies Inc.",5,2024-10-03,Safe
+106,Gloves,Consumable,1727,11,5860.81,6,"HealthTools Ltd.",15,2024-10-05,Safe
+109,Ventilator,Equipment,4201,734,13394.06,20,"MedSupplies Inc.",5,2024-10-03,Safe
+101,"X-ray Machine",Consumable,457,727,16084.3,3,"HealthTools Ltd.",15,2024-10-05,"High Risk"
+106,"Surgical Mask",Equipment,1431,612,7707.98,22,"MedSupplies Inc.",5,2024-10-03,Safe
+108,"X-ray Machine",Consumable,1661,122,9286.07,5,"EquipMed Co.",30,2024-10-15,Safe
+108,Gloves,Equipment,1959,117,12845.61,25,"HealthTools Ltd.",15,2024-10-05,Safe
+103,Gloves,Equipment,4298,159,11755.83,2,"EquipMed Co.",30,2024-10-15,Safe
+102,"Surgical Mask",Equipment,3459,600,14664.65,1,"MedSupplies Inc.",5,2024-10-03,Safe
+103,Gloves,Consumable,3268,279,17113,25,"MedSupplies Inc.",5,2024-10-03,Safe
+106,"Surgical Mask",Equipment,4209,77,10835.1,14,"EquipMed Co.",30,2024-10-15,Safe
+103,Gloves,Consumable,1615,883,19188.41,16,"MedSupplies Inc.",5,2024-10-03,Safe
+106,"X-ray Machine",Equipment,3043,411,5623.07,25,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"IV Drip",Equipment,4643,271,1335.6,5,"MedSupplies Inc.",5,2024-10-03,Safe
+107,Ventilator,Consumable,2460,36,7687.38,1,"EquipMed Co.",30,2024-10-15,Safe
+100,Ventilator,Consumable,4249,713,19281.88,5,"HealthTools Ltd.",15,2024-10-05,Safe
+108,"IV Drip",Consumable,3389,421,15278.79,29,"HealthTools Ltd.",15,2024-10-05,Safe
+104,"IV Drip",Equipment,362,759,3938.24,19,"HealthTools Ltd.",15,2024-10-05,"High Risk"
+106,"Surgical Mask",Equipment,1362,947,19594.12,24,"MedSupplies Inc.",5,2024-10-03,Safe
+105,Gloves,Consumable,423,535,14048.5,21,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+108,"X-ray Machine",Consumable,883,823,15984.82,5,"EquipMed Co.",30,2024-10-15,Safe
+102,Ventilator,Consumable,2123,442,1077.86,6,"EquipMed Co.",30,2024-10-15,Safe
+103,"IV Drip",Consumable,4094,578,14453.29,15,"EquipMed Co.",30,2024-10-15,Safe
+109,"IV Drip",Consumable,3018,68,9672.78,23,"EquipMed Co.",30,2024-10-15,Safe
+107,"IV Drip",Consumable,4293,27,15898.63,16,"MedSupplies Inc.",5,2024-10-03,Safe
+105,Gloves,Equipment,998,224,14321.3,20,"EquipMed Co.",30,2024-10-15,Safe
+103,"X-ray Machine",Consumable,2554,873,3528.79,13,"EquipMed Co.",30,2024-10-15,Safe
+104,"IV Drip",Consumable,4192,995,18374.44,8,"EquipMed Co.",30,2024-10-15,Safe
+105,"X-ray Machine",Consumable,4181,230,11554.34,1,"HealthTools Ltd.",15,2024-10-05,Safe
+103,Ventilator,Consumable,2307,215,7714.83,26,"MedSupplies Inc.",5,2024-10-03,Safe
+103,"Surgical Mask",Equipment,1225,401,4554.51,21,"EquipMed Co.",30,2024-10-15,Safe
+107,"Surgical Mask",Consumable,2159,292,15670.89,21,"MedSupplies Inc.",5,2024-10-03,Safe
+109,Ventilator,Consumable,1255,283,19414.06,27,"EquipMed Co.",30,2024-10-15,Safe
+109,"Surgical Mask",Consumable,4670,718,14710.54,6,"HealthTools Ltd.",15,2024-10-05,Safe
+109,"IV Drip",Equipment,4652,565,12197.47,11,"HealthTools Ltd.",15,2024-10-05,Safe
+107,Gloves,Equipment,2208,441,19006.75,25,"MedSupplies Inc.",5,2024-10-03,Safe
+103,"Surgical Mask",Consumable,729,744,14231.58,12,"EquipMed Co.",30,2024-10-15,"High Risk"
+102,Ventilator,Equipment,1308,135,9129.72,22,"HealthTools Ltd.",15,2024-10-05,Safe
+103,Gloves,Consumable,1951,358,6433.42,29,"EquipMed Co.",30,2024-10-15,Safe
+109,Ventilator,Consumable,3037,515,3774.51,7,"EquipMed Co.",30,2024-10-15,Safe
+107,"IV Drip",Consumable,644,850,17473.68,2,"HealthTools Ltd.",15,2024-10-05,"High Risk"
+107,Ventilator,Equipment,1536,708,14457.92,21,"HealthTools Ltd.",15,2024-10-05,Safe
+105,"IV Drip",Consumable,151,805,19561.59,14,"HealthTools Ltd.",15,2024-10-05,"High Risk"
+101,"Surgical Mask",Consumable,2474,16,1504.53,16,"MedSupplies Inc.",5,2024-10-03,Safe
+102,Gloves,Consumable,4330,913,6294.82,16,"MedSupplies Inc.",5,2024-10-03,Safe
+102,"X-ray Machine",Equipment,2132,703,8129.55,12,"MedSupplies Inc.",5,2024-10-03,Safe
+108,Gloves,Equipment,1036,897,19250.87,22,"MedSupplies Inc.",5,2024-10-03,Safe
+101,"X-ray Machine",Equipment,573,514,11815.94,4,"HealthTools Ltd.",15,2024-10-05,Safe
+105,"Surgical Mask",Consumable,2718,36,13601.84,10,"HealthTools Ltd.",15,2024-10-05,Safe
+108,Ventilator,Consumable,3261,645,5417.61,23,"HealthTools Ltd.",15,2024-10-05,Safe
+104,"IV Drip",Equipment,2458,725,5150.14,25,"EquipMed Co.",30,2024-10-15,Safe
+100,"IV Drip",Consumable,4016,815,6855.76,24,"HealthTools Ltd.",15,2024-10-05,Safe
+102,"IV Drip",Equipment,3299,103,1680.4,5,"HealthTools Ltd.",15,2024-10-05,Safe
+105,"Surgical Mask",Equipment,4094,443,18790.34,29,"HealthTools Ltd.",15,2024-10-05,Safe
+105,"Surgical Mask",Consumable,4092,542,8103.52,27,"HealthTools Ltd.",15,2024-10-05,Safe
+100,"X-ray Machine",Consumable,4732,487,4010.43,24,"HealthTools Ltd.",15,2024-10-05,Safe
+108,Gloves,Consumable,3261,897,6876.61,25,"MedSupplies Inc.",5,2024-10-03,Safe
+101,Gloves,Consumable,4860,450,3916.18,18,"MedSupplies Inc.",5,2024-10-03,Safe
+101,Ventilator,Consumable,3582,967,5117.16,21,"HealthTools Ltd.",15,2024-10-05,Safe
+100,"X-ray Machine",Consumable,2851,449,15152.04,6,"EquipMed Co.",30,2024-10-15,Safe
+103,"Surgical Mask",Consumable,2466,742,4760.82,22,"EquipMed Co.",30,2024-10-15,Safe
+108,"Surgical Mask",Consumable,1596,161,13977.02,15,"EquipMed Co.",30,2024-10-15,Safe
+108,"IV Drip",Equipment,820,707,11867.51,20,"EquipMed Co.",30,2024-10-15,Safe
+104,"X-ray Machine",Consumable,1451,659,2902.09,9,"HealthTools Ltd.",15,2024-10-05,Safe
+104,"X-ray Machine",Equipment,125,650,15274.29,4,"EquipMed Co.",30,2024-10-15,"High Risk"
+100,"Surgical Mask",Consumable,2016,624,17057.52,6,"MedSupplies Inc.",5,2024-10-03,Safe
+109,"X-ray Machine",Equipment,3173,413,19119.77,4,"EquipMed Co.",30,2024-10-15,Safe
+103,"IV Drip",Consumable,4059,465,19180.01,21,"EquipMed Co.",30,2024-10-15,Safe
+107,"IV Drip",Consumable,4140,60,14127.56,7,"EquipMed Co.",30,2024-10-15,Safe
+103,"Surgical Mask",Consumable,3765,560,5827.25,2,"EquipMed Co.",30,2024-10-15,Safe
+102,"Surgical Mask",Equipment,2370,973,758.71,26,"MedSupplies Inc.",5,2024-10-03,Safe
+101,"X-ray Machine",Consumable,3928,774,7804.91,10,"EquipMed Co.",30,2024-10-15,Safe
+101,"X-ray Machine",Equipment,4406,424,14662.67,13,"MedSupplies Inc.",5,2024-10-03,Safe
+102,Gloves,Equipment,965,559,18812.8,24,"EquipMed Co.",30,2024-10-15,Safe
+101,"X-ray Machine",Consumable,4739,962,2271.25,23,"MedSupplies Inc.",5,2024-10-03,Safe
+104,"X-ray Machine",Consumable,3266,904,10845.07,6,"HealthTools Ltd.",15,2024-10-05,Safe
+102,Ventilator,Consumable,2480,655,9495.74,3,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"Surgical Mask",Equipment,714,69,915.04,26,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"X-ray Machine",Consumable,1341,986,13013.72,28,"EquipMed Co.",30,2024-10-15,Safe
+105,Ventilator,Equipment,200,484,17451.66,15,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+102,"X-ray Machine",Equipment,3694,455,9237.32,20,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"Surgical Mask",Equipment,1293,809,10465.55,6,"MedSupplies Inc.",5,2024-10-03,Safe
+107,Gloves,Consumable,4788,976,3556.21,27,"EquipMed Co.",30,2024-10-15,Safe
+107,"IV Drip",Equipment,1638,355,2422.81,25,"HealthTools Ltd.",15,2024-10-05,Safe
+106,"Surgical Mask",Consumable,2442,213,12277.15,29,"HealthTools Ltd.",15,2024-10-05,Safe
+101,"Surgical Mask",Consumable,3015,667,14328.34,29,"EquipMed Co.",30,2024-10-15,Safe
+106,Ventilator,Consumable,2513,41,5750.42,4,"HealthTools Ltd.",15,2024-10-05,Safe
+107,Ventilator,Consumable,805,681,9989.26,16,"EquipMed Co.",30,2024-10-15,Safe
+102,Ventilator,Consumable,3784,94,19161.21,2,"EquipMed Co.",30,2024-10-15,Safe
+103,Gloves,Equipment,3758,100,666.95,26,"MedSupplies Inc.",5,2024-10-03,Safe
+101,Ventilator,Consumable,1372,49,4716.65,23,"EquipMed Co.",30,2024-10-15,Safe
+109,"Surgical Mask",Consumable,2833,767,2061.51,11,"HealthTools Ltd.",15,2024-10-05,Safe
+105,Ventilator,Consumable,360,188,16439.94,8,"EquipMed Co.",30,2024-10-15,Safe
+109,"X-ray Machine",Equipment,2692,596,19844.87,9,"MedSupplies Inc.",5,2024-10-03,Safe
+109,"X-ray Machine",Equipment,3913,304,3195,18,"MedSupplies Inc.",5,2024-10-03,Safe
+102,"IV Drip",Consumable,351,590,15038.14,26,"HealthTools Ltd.",15,2024-10-05,"High Risk"
+100,"X-ray Machine",Equipment,2021,389,5747.94,8,"HealthTools Ltd.",15,2024-10-05,Safe
+109,"IV Drip",Consumable,1389,561,6575.23,20,"HealthTools Ltd.",15,2024-10-05,Safe
+101,"X-ray Machine",Equipment,2014,137,18597,8,"MedSupplies Inc.",5,2024-10-03,Safe
+109,Gloves,Consumable,1228,217,14250.61,10,"EquipMed Co.",30,2024-10-15,Safe
+100,"IV Drip",Equipment,3754,23,16241.58,21,"EquipMed Co.",30,2024-10-15,Safe
+106,"X-ray Machine",Equipment,2727,173,9095.5,2,"MedSupplies Inc.",5,2024-10-03,Safe
+100,"IV Drip",Consumable,4779,496,6545.59,18,"EquipMed Co.",30,2024-10-15,Safe
+104,"IV Drip",Equipment,466,901,2766.57,25,"EquipMed Co.",30,2024-10-15,"High Risk"
+108,"X-ray Machine",Consumable,1872,405,12507.75,29,"EquipMed Co.",30,2024-10-15,Safe
+104,"Surgical Mask",Equipment,3449,369,13596.86,11,"MedSupplies Inc.",5,2024-10-03,Safe
+103,Ventilator,Consumable,4242,341,18607.98,13,"EquipMed Co.",30,2024-10-15,Safe
+103,"IV Drip",Consumable,1775,832,2503.52,16,"HealthTools Ltd.",15,2024-10-05,Safe
+108,"IV Drip",Equipment,563,430,14741.34,3,"MedSupplies Inc.",5,2024-10-03,Safe
+108,"IV Drip",Consumable,3624,92,10931.03,1,"MedSupplies Inc.",5,2024-10-03,Safe
+107,Ventilator,Consumable,2463,213,9146.87,25,"EquipMed Co.",30,2024-10-15,Safe
+100,"IV Drip",Consumable,3240,701,15058.49,22,"HealthTools Ltd.",15,2024-10-05,Safe
+103,"IV Drip",Equipment,2572,172,12145.71,6,"MedSupplies Inc.",5,2024-10-03,Safe
+108,"X-ray Machine",Consumable,1089,964,2055.54,20,"EquipMed Co.",30,2024-10-15,Safe
+107,"Surgical Mask",Equipment,1276,90,8383.42,1,"MedSupplies Inc.",5,2024-10-03,Safe
+107,Gloves,Consumable,3801,550,19913.41,18,"MedSupplies Inc.",5,2024-10-03,Safe
+101,Gloves,Consumable,156,403,15351.22,24,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+108,Ventilator,Consumable,4402,879,15251.73,15,"HealthTools Ltd.",15,2024-10-05,Safe
+104,Gloves,Equipment,1667,18,18444.16,21,"HealthTools Ltd.",15,2024-10-05,Safe
+107,"Surgical Mask",Consumable,3308,155,14587.84,27,"HealthTools Ltd.",15,2024-10-05,Safe
+100,Gloves,Consumable,3134,762,16959.77,5,"HealthTools Ltd.",15,2024-10-05,Safe
+104,"Surgical Mask",Equipment,481,246,8021.97,5,"HealthTools Ltd.",15,2024-10-05,Safe
+109,"Surgical Mask",Equipment,840,230,8003.19,13,"HealthTools Ltd.",15,2024-10-05,Safe
+100,"X-ray Machine",Equipment,4518,675,19140.66,13,"EquipMed Co.",30,2024-10-15,Safe
+106,Gloves,Consumable,2068,360,15149.99,5,"HealthTools Ltd.",15,2024-10-05,Safe
+104,"IV Drip",Equipment,3932,133,9426.57,16,"HealthTools Ltd.",15,2024-10-05,Safe
+102,Ventilator,Consumable,3446,111,9792.19,6,"MedSupplies Inc.",5,2024-10-03,Safe
+104,"IV Drip",Equipment,4012,709,332.31,23,"MedSupplies Inc.",5,2024-10-03,Safe
+106,Gloves,Equipment,880,389,4595.06,25,"HealthTools Ltd.",15,2024-10-05,Safe
+103,Gloves,Equipment,3926,69,9426.31,14,"HealthTools Ltd.",15,2024-10-05,Safe
+103,"IV Drip",Equipment,3973,196,5876.33,21,"MedSupplies Inc.",5,2024-10-03,Safe
+107,"X-ray Machine",Equipment,2270,284,19636.33,21,"MedSupplies Inc.",5,2024-10-03,Safe
+108,Gloves,Consumable,771,534,2310.89,27,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"X-ray Machine",Consumable,2338,907,10111.41,29,"MedSupplies Inc.",5,2024-10-03,Safe
+100,Ventilator,Equipment,248,293,198.75,8,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+108,Gloves,Consumable,312,532,5450.73,15,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+105,"IV Drip",Equipment,3554,973,4489.01,24,"MedSupplies Inc.",5,2024-10-03,Safe
+104,"X-ray Machine",Consumable,4223,967,12101.98,21,"EquipMed Co.",30,2024-10-15,Safe
+107,Ventilator,Consumable,2491,794,17744.44,6,"HealthTools Ltd.",15,2024-10-05,Safe
+104,"Surgical Mask",Equipment,519,293,11329.09,8,"HealthTools Ltd.",15,2024-10-05,Safe
+101,Ventilator,Equipment,1908,646,12882.23,5,"MedSupplies Inc.",5,2024-10-03,Safe
+103,"X-ray Machine",Consumable,1238,784,5598.83,16,"HealthTools Ltd.",15,2024-10-05,Safe
+103,Gloves,Consumable,334,522,6177.68,10,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+109,Gloves,Consumable,1020,17,9980.36,6,"EquipMed Co.",30,2024-10-15,Safe
+102,"Surgical Mask",Equipment,1588,675,11371.41,26,"EquipMed Co.",30,2024-10-15,Safe
+105,"X-ray Machine",Equipment,2519,77,10926.81,2,"HealthTools Ltd.",15,2024-10-05,Safe
+102,Gloves,Consumable,1808,837,5201.3,21,"EquipMed Co.",30,2024-10-15,Safe
+103,Gloves,Consumable,4099,770,2919.89,1,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"X-ray Machine",Consumable,1589,382,7367.76,2,"EquipMed Co.",30,2024-10-15,Safe
+107,Ventilator,Consumable,161,521,15682.5,20,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+102,"IV Drip",Consumable,1829,430,11922.86,10,"HealthTools Ltd.",15,2024-10-05,Safe
+107,Ventilator,Consumable,4740,438,3637.87,3,"MedSupplies Inc.",5,2024-10-03,Safe
+101,"X-ray Machine",Equipment,4964,735,4664.74,17,"HealthTools Ltd.",15,2024-10-05,Safe
+106,Ventilator,Equipment,2031,635,18083.89,24,"HealthTools Ltd.",15,2024-10-05,Safe
+105,Gloves,Equipment,2588,768,7924.06,27,"MedSupplies Inc.",5,2024-10-03,Safe
+100,"X-ray Machine",Equipment,4174,521,17074.09,19,"HealthTools Ltd.",15,2024-10-05,Safe
+100,Gloves,Equipment,1877,210,19549.43,26,"HealthTools Ltd.",15,2024-10-05,Safe
+103,Gloves,Equipment,359,633,7157.67,27,"EquipMed Co.",30,2024-10-15,"High Risk"
+101,Gloves,Equipment,3916,176,258.85,11,"EquipMed Co.",30,2024-10-15,Safe
+109,Ventilator,Equipment,3491,948,14555.91,17,"MedSupplies Inc.",5,2024-10-03,Safe
+109,"IV Drip",Consumable,3936,686,9709.02,18,"MedSupplies Inc.",5,2024-10-03,Safe
+106,"Surgical Mask",Consumable,4343,78,17748.49,9,"HealthTools Ltd.",15,2024-10-05,Safe
+106,"IV Drip",Consumable,177,101,3385,29,"EquipMed Co.",30,2024-10-15,Safe
+107,"Surgical Mask",Consumable,221,791,4865.33,18,"HealthTools Ltd.",15,2024-10-05,"High Risk"
+108,"X-ray Machine",Consumable,1157,663,9433.1,27,"MedSupplies Inc.",5,2024-10-03,Safe
+108,"IV Drip",Consumable,4208,947,2715.95,18,"MedSupplies Inc.",5,2024-10-03,Safe
+107,"Surgical Mask",Consumable,3324,338,7207,6,"EquipMed Co.",30,2024-10-15,Safe
+100,Gloves,Equipment,1293,656,311.77,10,"HealthTools Ltd.",15,2024-10-05,Safe
+108,"X-ray Machine",Consumable,4885,360,16035.71,7,"EquipMed Co.",30,2024-10-15,Safe
+106,"IV Drip",Equipment,2962,150,2014.53,13,"MedSupplies Inc.",5,2024-10-03,Safe
+108,Ventilator,Consumable,4312,620,11917.36,7,"MedSupplies Inc.",5,2024-10-03,Safe
+109,"X-ray Machine",Equipment,3877,909,5245,16,"EquipMed Co.",30,2024-10-15,Safe
+108,Gloves,Consumable,3504,242,600.78,25,"EquipMed Co.",30,2024-10-15,Safe
+103,Gloves,Equipment,3859,538,2194.35,2,"HealthTools Ltd.",15,2024-10-05,Safe
+106,Gloves,Equipment,3951,271,13984.45,15,"EquipMed Co.",30,2024-10-15,Safe
+101,"Surgical Mask",Consumable,3931,562,17821.3,6,"HealthTools Ltd.",15,2024-10-05,Safe
+107,"IV Drip",Equipment,2453,449,1094.03,10,"MedSupplies Inc.",5,2024-10-03,Safe
+104,"X-ray Machine",Equipment,2348,935,5629.09,6,"EquipMed Co.",30,2024-10-15,Safe
+109,"IV Drip",Consumable,2842,703,7968.93,7,"EquipMed Co.",30,2024-10-15,Safe
+102,"IV Drip",Equipment,329,288,19573.66,12,"HealthTools Ltd.",15,2024-10-05,Safe
+100,"Surgical Mask",Consumable,1196,367,8853.64,26,"HealthTools Ltd.",15,2024-10-05,Safe
+108,"Surgical Mask",Consumable,3962,545,16497.31,17,"HealthTools Ltd.",15,2024-10-05,Safe
+102,Gloves,Consumable,3675,261,5622.76,20,"MedSupplies Inc.",5,2024-10-03,Safe
+107,"IV Drip",Equipment,3359,900,9363.66,27,"EquipMed Co.",30,2024-10-15,Safe
+108,"Surgical Mask",Equipment,4974,942,16517.32,24,"EquipMed Co.",30,2024-10-15,Safe
+104,Gloves,Consumable,865,757,15373.96,19,"HealthTools Ltd.",15,2024-10-05,Safe
+104,"X-ray Machine",Consumable,1729,197,4771.7,26,"MedSupplies Inc.",5,2024-10-03,Safe
+101,"Surgical Mask",Equipment,2704,44,5054.72,17,"EquipMed Co.",30,2024-10-15,Safe
+107,"Surgical Mask",Consumable,2071,976,10969.69,10,"MedSupplies Inc.",5,2024-10-03,Safe
+106,"X-ray Machine",Consumable,860,400,18760.33,11,"HealthTools Ltd.",15,2024-10-05,Safe
+109,"X-ray Machine",Equipment,562,354,2399,10,"HealthTools Ltd.",15,2024-10-05,Safe
+104,"Surgical Mask",Consumable,3000,598,15441.35,10,"MedSupplies Inc.",5,2024-10-03,Safe
+101,"X-ray Machine",Equipment,4879,27,14752.14,8,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"X-ray Machine",Equipment,3189,617,17015.59,27,"MedSupplies Inc.",5,2024-10-03,Safe
+109,Gloves,Consumable,4433,570,17784.06,24,"MedSupplies Inc.",5,2024-10-03,Safe
+107,"Surgical Mask",Consumable,2895,815,17668.57,23,"MedSupplies Inc.",5,2024-10-03,Safe
+101,"X-ray Machine",Equipment,2037,10,18018.37,11,"MedSupplies Inc.",5,2024-10-03,Safe
+103,Gloves,Equipment,4143,468,19614.11,12,"HealthTools Ltd.",15,2024-10-05,Safe
+105,"Surgical Mask",Equipment,1336,635,6648.92,8,"MedSupplies Inc.",5,2024-10-03,Safe
+107,"Surgical Mask",Consumable,4379,886,18580.26,28,"MedSupplies Inc.",5,2024-10-03,Safe
+103,"Surgical Mask",Consumable,3607,14,18951.23,1,"EquipMed Co.",30,2024-10-15,Safe
+106,"X-ray Machine",Equipment,4413,617,12963.82,23,"HealthTools Ltd.",15,2024-10-05,Safe
+106,"X-ray Machine",Consumable,3459,966,13291.98,1,"HealthTools Ltd.",15,2024-10-05,Safe
+107,"IV Drip",Consumable,2921,649,7171.49,3,"HealthTools Ltd.",15,2024-10-05,Safe
+109,Gloves,Equipment,1373,532,14906.21,23,"MedSupplies Inc.",5,2024-10-03,Safe
+101,"IV Drip",Equipment,4678,807,12051.42,16,"MedSupplies Inc.",5,2024-10-03,Safe
+109,Gloves,Consumable,4621,875,15726.49,9,"MedSupplies Inc.",5,2024-10-03,Safe
+106,Ventilator,Consumable,561,883,3070.7,16,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+100,"IV Drip",Consumable,2729,250,16291.95,25,"EquipMed Co.",30,2024-10-15,Safe
+103,"Surgical Mask",Consumable,4416,535,14467.77,23,"MedSupplies Inc.",5,2024-10-03,Safe
+108,Ventilator,Equipment,320,285,10919.13,20,"MedSupplies Inc.",5,2024-10-03,Safe
+104,Ventilator,Equipment,2178,51,5194.7,15,"EquipMed Co.",30,2024-10-15,Safe
+101,Ventilator,Equipment,497,214,1953.94,3,"MedSupplies Inc.",5,2024-10-03,Safe
+104,Gloves,Equipment,4519,438,9696.92,4,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"X-ray Machine",Consumable,93,61,2892.86,2,"EquipMed Co.",30,2024-10-15,Safe
+100,"X-ray Machine",Consumable,3849,117,15235.58,11,"MedSupplies Inc.",5,2024-10-03,Safe
+103,Ventilator,Equipment,2633,154,18491.22,5,"MedSupplies Inc.",5,2024-10-03,Safe
+101,"X-ray Machine",Consumable,3410,514,16406.52,1,"MedSupplies Inc.",5,2024-10-03,Safe
+104,"Surgical Mask",Consumable,2931,764,6609.51,25,"HealthTools Ltd.",15,2024-10-05,Safe
+104,"X-ray Machine",Equipment,2887,943,2920.51,19,"MedSupplies Inc.",5,2024-10-03,Safe
+104,Gloves,Consumable,4587,536,158.76,7,"MedSupplies Inc.",5,2024-10-03,Safe
+100,Ventilator,Consumable,2678,686,13273.33,24,"MedSupplies Inc.",5,2024-10-03,Safe
+100,"IV Drip",Consumable,1050,124,3752.65,13,"HealthTools Ltd.",15,2024-10-05,Safe
+108,"Surgical Mask",Equipment,4057,142,14331.23,16,"EquipMed Co.",30,2024-10-15,Safe
+104,"IV Drip",Consumable,4938,313,11508.87,27,"EquipMed Co.",30,2024-10-15,Safe
+106,Ventilator,Equipment,2440,906,9400.61,24,"MedSupplies Inc.",5,2024-10-03,Safe
+109,Ventilator,Equipment,4070,827,15350.9,25,"EquipMed Co.",30,2024-10-15,Safe
+103,"IV Drip",Consumable,3596,943,19621.33,17,"MedSupplies Inc.",5,2024-10-03,Safe
+103,Ventilator,Equipment,3770,264,2572.32,19,"HealthTools Ltd.",15,2024-10-05,Safe
+102,Ventilator,Equipment,2871,469,11010.6,14,"EquipMed Co.",30,2024-10-15,Safe
+101,Ventilator,Consumable,4488,822,6264.8,2,"HealthTools Ltd.",15,2024-10-05,Safe
+102,"X-ray Machine",Consumable,300,591,559.59,23,"EquipMed Co.",30,2024-10-15,"High Risk"
+101,"X-ray Machine",Consumable,3716,370,587.41,4,"HealthTools Ltd.",15,2024-10-05,Safe
+103,Gloves,Consumable,2672,504,11552.65,27,"HealthTools Ltd.",15,2024-10-05,Safe
+104,"IV Drip",Consumable,1615,794,1658.77,7,"MedSupplies Inc.",5,2024-10-03,Safe
+101,"Surgical Mask",Equipment,189,282,879.04,8,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+101,"IV Drip",Equipment,2256,788,3457.98,26,"EquipMed Co.",30,2024-10-15,Safe
+100,"IV Drip",Equipment,377,527,9197.56,21,"HealthTools Ltd.",15,2024-10-05,"High Risk"
+107,Gloves,Consumable,3692,929,10015.6,17,"EquipMed Co.",30,2024-10-15,Safe
+108,"X-ray Machine",Equipment,715,953,18305.37,25,"MedSupplies Inc.",5,2024-10-03,"Medium Risk"
+104,"Surgical Mask",Equipment,542,589,8393.67,3,"HealthTools Ltd.",15,2024-10-05,"High Risk"
+103,"Surgical Mask",Consumable,872,176,2156.02,29,"MedSupplies Inc.",5,2024-10-03,Safe
+105,Gloves,Equipment,389,284,4618.7,11,"EquipMed Co.",30,2024-10-15,Safe
+106,Ventilator,Consumable,2271,104,18908.2,20,"HealthTools Ltd.",15,2024-10-05,Safe
+103,"IV Drip",Consumable,1451,474,11903.24,3,"MedSupplies Inc.",5,2024-10-03,Safe
+102,"IV Drip",Consumable,540,809,7107.17,25,"HealthTools Ltd.",15,2024-10-05,"High Risk"
+109,"Surgical Mask",Consumable,934,436,17854.28,1,"HealthTools Ltd.",15,2024-10-05,Safe
+108,"IV Drip",Equipment,4131,57,6011.83,7,"EquipMed Co.",30,2024-10-15,Safe
+101,"Surgical Mask",Equipment,901,287,17621.95,14,"MedSupplies Inc.",5,2024-10-03,Safe
+104,"X-ray Machine",Equipment,2347,65,2423.11,7,"HealthTools Ltd.",15,2024-10-05,Safe
+100,"X-ray Machine",Equipment,2647,340,18764.62,26,"EquipMed Co.",30,2024-10-15,Safe
+108,"Surgical Mask",Equipment,926,118,18753.76,28,"MedSupplies Inc.",5,2024-10-03,Safe
+103,Gloves,Consumable,3851,41,6905.72,16,"EquipMed Co.",30,2024-10-15,Safe
+109,"IV Drip",Equipment,1593,605,351.47,6,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"Surgical Mask",Consumable,3054,76,7061.15,14,"HealthTools Ltd.",15,2024-10-05,Safe
+105,Gloves,Equipment,4500,157,3616.63,10,"EquipMed Co.",30,2024-10-15,Safe
+101,"X-ray Machine",Equipment,1562,169,5321.71,24,"MedSupplies Inc.",5,2024-10-03,Safe
+107,"IV Drip",Equipment,1907,892,12513.84,20,"EquipMed Co.",30,2024-10-15,Safe
+108,"IV Drip",Equipment,1080,797,8862.24,23,"HealthTools Ltd.",15,2024-10-05,Safe
+106,"X-ray Machine",Equipment,1444,817,14726.39,25,"HealthTools Ltd.",15,2024-10-05,Safe
+104,Ventilator,Consumable,4913,945,12740.92,14,"MedSupplies Inc.",5,2024-10-03,Safe
+107,"Surgical Mask",Consumable,3694,583,6011.49,22,"MedSupplies Inc.",5,2024-10-03,Safe
+103,Gloves,Equipment,2159,619,6477.87,14,"MedSupplies Inc.",5,2024-10-03,Safe
+105,Gloves,Equipment,3625,950,15963.03,3,"HealthTools Ltd.",15,2024-10-05,Safe
+103,Ventilator,Consumable,2556,254,10643.49,25,"EquipMed Co.",30,2024-10-15,Safe
+106,Gloves,Consumable,4943,758,2548.05,10,"MedSupplies Inc.",5,2024-10-03,Safe
+104,Gloves,Equipment,1313,448,11734.67,2,"EquipMed Co.",30,2024-10-15,Safe
+107,"IV Drip",Equipment,1066,744,2760.01,27,"HealthTools Ltd.",15,2024-10-05,Safe
+103,"Surgical Mask",Equipment,4174,132,17374.23,14,"EquipMed Co.",30,2024-10-15,Safe
+100,"IV Drip",Equipment,3509,497,2585.84,21,"MedSupplies Inc.",5,2024-10-03,Safe
+105,"X-ray Machine",Consumable,4612,200,13388.33,1,"MedSupplies Inc.",5,2024-10-03,Safe
+109,"IV Drip",Consumable,1735,214,17936.26,26,"MedSupplies Inc.",5,2024-10-03,Safe
+103,Ventilator,Consumable,3384,922,1962.92,29,"HealthTools Ltd.",15,2024-10-05,Safe
+107,"Surgical Mask",Consumable,1351,90,10604.88,15,"HealthTools Ltd.",15,2024-10-05,Safe
+105,Ventilator,Consumable,3753,520,19161.84,5,"HealthTools Ltd.",15,2024-10-05,Safe
+105,"Surgical Mask",Consumable,3020,144,5559.22,8,"EquipMed Co.",30,2024-10-15,Safe
+108,"Surgical Mask",Equipment,4594,462,5621.72,17,"MedSupplies Inc.",5,2024-10-03,Safe
+100,"Surgical Mask",Equipment,2485,823,9401.31,10,"HealthTools Ltd.",15,2024-10-05,Safe
+108,Gloves,Consumable,1450,990,18954.09,13,"HealthTools Ltd.",15,2024-10-05,Safe
+103,"IV Drip",Consumable,2749,516,16020.37,18,"MedSupplies Inc.",5,2024-10-03,Safe
+106,Gloves,Consumable,2078,680,5424.08,5,"MedSupplies Inc.",5,2024-10-03,Safe
+109,Gloves,Consumable,1591,598,4632.09,17,"MedSupplies Inc.",5,2024-10-03,Safe
+103,"IV Drip",Equipment,2883,901,3972.74,17,"EquipMed Co.",30,2024-10-15,Safe
+102,Ventilator,Equipment,1307,703,8594.8,26,"EquipMed Co.",30,2024-10-15,Safe
+107,"Surgical Mask",Consumable,160,427,16158.21,17,"HealthTools Ltd.",15,2024-10-05,"High Risk"
+100,Ventilator,Consumable,2718,612,3046.47,4,"EquipMed Co.",30,2024-10-15,Safe
+103,Ventilator,Equipment,1104,412,12341.39,9,"HealthTools Ltd.",15,2024-10-05,Safe
+100,"X-ray Machine",Consumable,3988,144,9446.07,23,"MedSupplies Inc.",5,2024-10-03,Safe
+103,Gloves,Equipment,1845,642,12926.59,3,"EquipMed Co.",30,2024-10-15,Safe
+106,"Surgical Mask",Equipment,178,140,8070,1,"HealthTools Ltd.",15,2024-10-05,Safe
+101,"IV Drip",Consumable,1935,164,15196.56,26,"HealthTools Ltd.",15,2024-10-05,Safe
+109,Ventilator,Consumable,2398,248,6420.49,7,"EquipMed Co.",30,2024-10-15,Safe
+102,"X-ray Machine",Equipment,1310,291,14443.49,22,"HealthTools Ltd.",15,2024-10-05,Safe
+109,"X-ray Machine",Equipment,4017,535,19193.19,29,"MedSupplies Inc.",5,2024-10-03,Safe
+104,Ventilator,Consumable,2725,969,11585.05,23,"HealthTools Ltd.",15,2024-10-05,Safe
+109,Ventilator,Equipment,3055,741,12691.4,28,"MedSupplies Inc.",5,2024-10-03,Safe
+101,"X-ray Machine",Consumable,2352,584,10496.26,26,"EquipMed Co.",30,2024-10-15,Safe
+103,Gloves,Consumable,3122,67,9719.26,18,"EquipMed Co.",30,2024-10-15,Safe
+102,"X-ray Machine",Equipment,3907,303,3371.35,5,"HealthTools Ltd.",15,2024-10-05,Safe
+104,"X-ray Machine",Equipment,2511,951,13751.14,5,"EquipMed Co.",30,2024-10-15,Safe
+109,"X-ray Machine",Consumable,1677,415,12123.63,3,"EquipMed Co.",30,2024-10-15,Safe
+107,Gloves,Consumable,1060,117,11057.94,26,"MedSupplies Inc.",5,2024-10-03,Safe
+104,Gloves,Equipment,1302,514,6128.89,12,"MedSupplies Inc.",5,2024-10-03,Safe
+109,Gloves,Consumable,1261,847,7890.13,11,"EquipMed Co.",30,2024-10-15,Safe
+104,"IV Drip",Consumable,4209,827,8664.16,3,"EquipMed Co.",30,2024-10-15,Safe
+101,"IV Drip",Consumable,1687,35,13149.87,12,"HealthTools Ltd.",15,2024-10-05,Safe
+102,"IV Drip",Equipment,1793,278,14518.01,13,"MedSupplies Inc.",5,2024-10-03,Safe
+107,"IV Drip",Equipment,2995,574,6259.41,21,"EquipMed Co.",30,2024-10-15,Safe
+102,"Surgical Mask",Equipment,3099,848,12294.92,10,"HealthTools Ltd.",15,2024-10-05,Safe
+103,"Surgical Mask",Consumable,1823,953,7407.8,27,"MedSupplies Inc.",5,2024-10-03,Safe
+109,"Surgical Mask",Equipment,1310,775,9704.49,4,"HealthTools Ltd.",15,2024-10-05,Safe
+107,Ventilator,Equipment,2023,83,1638.81,20,"EquipMed Co.",30,2024-10-15,Safe
+106,"Surgical Mask",Consumable,2724,916,11573.76,7,"EquipMed Co.",30,2024-10-15,Safe
+106,Ventilator,Consumable,3297,594,17928.89,28,"EquipMed Co.",30,2024-10-15,Safe
+102,"X-ray Machine",Equipment,1780,484,19068.13,11,"MedSupplies Inc.",5,2024-10-03,Safe
+103,"Surgical Mask",Equipment,317,154,6693.04,17,"MedSupplies Inc.",5,2024-10-03,Safe
+106,Gloves,Equipment,1979,361,3402.94,9,"EquipMed Co.",30,2024-10-15,Safe
+100,"IV Drip",Equipment,2906,872,19532.82,26,"HealthTools Ltd.",15,2024-10-05,Safe
+108,Ventilator,Consumable,4072,776,15934.2,6,"EquipMed Co.",30,2024-10-15,Safe
+100,"X-ray Machine",Equipment,997,239,5863.88,16,"EquipMed Co.",30,2024-10-15,Safe
+107,"Surgical Mask",Equipment,4193,304,90.3,27,"MedSupplies Inc.",5,2024-10-03,Safe
+106,"IV Drip",Consumable,822,186,5284.45,6,"HealthTools Ltd.",15,2024-10-05,Safe
+105,Gloves,Consumable,3619,710,19098.93,19,"HealthTools Ltd.",15,2024-10-05,Safe
